@@ -1,6 +1,7 @@
 - 👋 Hi, I’m self-taught-flutter Developer
 - 👀 I’m interested in coding and creatin new UI and solving problems etc.
 - 🌱 I’m currently learning ...
+- Freelancer
 - 💞️ I’m looking to collaborate on both App and Web Developers
 - 📫 reach me by Git hub
 
