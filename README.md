@@ -1,4 +1,4 @@
-- 👋 Hi, I’m self-taught-flutter Developer
+- 👋 Flutter Developer
 - 👀 I’m interested in coding and creatin new UI and solving problems etc.
 - 🌱 I’m currently learning ...
 - Freelancer
