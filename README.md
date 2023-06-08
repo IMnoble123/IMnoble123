@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm  Noble Thomas.</h1>
-<h3 align="center">Flutter developer, creative coder and self-proclaimed designer who specializes in App development. I make it my mission to translate user-focused designs into pixel-perfect Apps that run blazing fast</h3>
+<h1 align="center">Hi 👋, I'm I’m Noble Thomas.</h1>
+<h3 align="center">Flutter Developer , creative coder and self-proclaimed designer who specializes in App development. I make it my mission to translate user-focused designs into pixel-perfect Apps that run blazing fast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imnoble123&label=Profile%20views&color=0e75b6&style=flat" alt="imnoble123" /> </p>
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/noble thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noble thomas" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/noble ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="noble ct" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/noble-thomas-a21a21236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noble-thomas-a21a21236/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19806647/noble-ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19806647/noble-ct" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imnoble123&show_icons=true&locale=en&layout=compact" alt="imnoble123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnoble123&" alt="imnoble123" /></p>
+
