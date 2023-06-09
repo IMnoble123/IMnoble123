@@ -83,7 +83,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IMnoble123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IMnoble123&show_icons=true&count_private=true&hide_border=true" align="center" /><img src = "[![trophy](https://github-profile-trophy.vercel.app/?IMnoble123=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" align = "center;" />
+</div>  
 
 <br/>  
 
