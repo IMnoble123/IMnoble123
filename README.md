@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.logrocket.com%2Fbuild-an-intuitive-ecommerce-product-gallery-with-flutter%2F&psig=AOvVaw2a5itrc0hVQKRK1PRSZstx&ust=1693923288561000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiC2dKRkYEDFQAAAAAdAAAAABAQ" align="center" style="width: 100%"  />
+<img src="https://media.licdn.com/dms/image/D4E12AQG1ABO6PcVjQg/article-cover_image-shrink_720_1280/0/1659411941942?e=2147483647&v=beta&t=WMnwV_Un0sY8lrwCi9PVfv-n0hpicb0981XCU7IUUcs" align="center" style="width: 100%"  />
 </div>  
   
 
