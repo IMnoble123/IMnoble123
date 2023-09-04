@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"> Hi I'm Noble Thomas 👋  a Flutter Developer👨‍💻 , creative coder and self-proclaimed designer who specializes in App development. I make it my mission to translate user-focused designs into pixel-perfect Apps that run blazing fast</div>  
+### <div align="center"> Hi 👋 I'm Noble Thomas  a Flutter Developer👨‍💻 , creative coder and self-proclaimed designer who specializes in App development. I make it my mission to translate user-focused designs into pixel-perfect Apps that run blazing fast</div>  
   
 
 - 🔭 I’m currently working on [Rayabhari Technologys](https://www.rayabharitech.com/home)  
